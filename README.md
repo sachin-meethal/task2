@@ -27,5 +27,5 @@ All tasks are stored persistently in a `tasks.txt` file.
 1. Open your terminal or VS Code.  
 2. Navigate to the project folder:  
    ```bash
-   cd ToDoApp
+   cd cd "C:\Users\sachi\Desktop\task2"
 
